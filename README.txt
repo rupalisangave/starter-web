@@ -1,5 +1,5 @@
 # Start web Project
 ## Introduction
-## Purpose
+## Purpose of life is like this
 ## How to contribute
 Rupali
